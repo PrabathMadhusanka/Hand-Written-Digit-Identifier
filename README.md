@@ -1,5 +1,7 @@
+*******************************************
+Hand Written digit Identifier
+****************************************
 
-######**Hand Written digit Identifier**#########
 
 SVM offers very high accuracy compared to other classifiers such as logistic regression, and decision trees.  Very good in handling nonlinear input spaces. 
 Used in a variety of applications such as face detection, intrusion detection, classification of emails, news articles and web pages, classification of genes, and handwriting recognition.
